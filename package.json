@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "aws-sdk": "^2.1022.0",
-    "axios": "^0.24.0",
+    "axios": "^1.6.0",
     "bcrypt": "^5.0.1",
     "class-transformer": "^0.4.0",
     "class-validator": "^0.13.1",
